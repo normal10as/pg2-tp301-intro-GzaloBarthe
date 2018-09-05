@@ -1,0 +1,10 @@
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\bin\Debug\Entidades.xml
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.xml
+C:\Users\Super Gzalo\source\repos\Mascotas\Entidades\obj\Debug\Entidades.pdb

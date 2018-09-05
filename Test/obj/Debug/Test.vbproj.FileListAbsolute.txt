@@ -1,0 +1,15 @@
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.Resources.resources
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Test.exe.config
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Test.exe
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Test.pdb
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Test.xml
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Entidades.dll
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Entidades.pdb
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\bin\Debug\Entidades.xml
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.vbproj.CopyComplete
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.exe
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.xml
+C:\Users\Super Gzalo\source\repos\Mascotas\Test\obj\Debug\Test.pdb
